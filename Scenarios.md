@@ -8,7 +8,7 @@
 * Sign-up with The Username on Null
 * Sign-up with the password on null
 ### Scenario 2: Incorrect Storage of accurate credentials/Credentials not working after sign-up
-* Test Case 1: Register with valid credentials and then attempt to log in with those same credentials.
+*  Register with valid credentials and then attempt to log in with those same credentials.
 * Register with valid credentials, log out, and then try to log in again with those same credentials.
 ## Log-in:
 ### Scenario 1: Incorrect Credentials in login.

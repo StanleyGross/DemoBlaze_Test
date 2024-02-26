@@ -6,9 +6,9 @@ Feature: Login and SignUp Scenarios for Demoblaze.
 
 #   If this Scenario Fails, add proper credentials matching an non-existing user for sign-up Process
   Scenario: Sign-Up to DemoBlaze with Accurate Info and Verifying Login Works.
-    And I SignUp to DemoBlaze using the username "StanleyTest36" and password "C0mpl3j0"
+    And I SignUp to DemoBlaze using the username "StanleyTest38" and password "C0mpl3j0"
     Then I expect a successful signUp
-    Then I login to DemoBlaze using the username "StanleyTest36" and password "C0mpl3j0"
+    Then I login to DemoBlaze using the username "StanleyTest38" and password "C0mpl3j0"
     And I Verify Im Logged In
     Then I logOut from Demoblaze
 
